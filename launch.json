@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TextAdventure",
+            "request": "launch",
+            "mainClass": "TextAdventure",
+            "projectName": "Java Project_e729be55"
+        },
+        {
+            "type": "java",
+            "name": "Launch TextAdventure",
+            "request": "launch",
+            "mainClass": "TextAdventure",
+            "projectName": "TextAdventureGame"
+        }
+    ]
+}
